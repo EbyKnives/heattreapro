@@ -1,0 +1,218 @@
+[
+  {
+    "name": "Peters' Heat Treating",
+    "url": "https://petersheattreat.com/blades/",
+    "status": 200,
+    "final": "https://petersheattreat.com/blades/"
+  },
+  {
+    "name": "Paul Bos Heat Treat",
+    "url": "https://www.buckknives.com/about/behind-the-blade/paul-bos-heat-treating-services/",
+    "status": 200,
+    "final": "https://www.buckknives.com/about/behind-the-blade/paul-bos-heat-treating-services/"
+  },
+  {
+    "name": "Pristine Heat Treat",
+    "url": "https://www.pristineheattreat.com/",
+    "status": 404,
+    "final": "https://www.pristineheattreat.com/"
+  },
+  {
+    "name": "Metalex Thermal Specialties",
+    "url": "https://www.metalexts.com/heat-treating-services-provided-by-metalex/knife-blades-thermal-processing/",
+    "status": 200,
+    "final": "https://www.metalexts.com/heat-treating-services-provided-by-metalex/knife-blades-thermal-processing/"
+  },
+  {
+    "name": "The Kinetic Company",
+    "url": "https://www.knifemaker.com/",
+    "status": 200,
+    "final": "https://www.knifemaker.com/"
+  },
+  {
+    "name": "Jarod Todd Heat Treating",
+    "url": "https://www.jarodtodd.com/",
+    "status": 200,
+    "final": "https://www.jarodtodd.com/"
+  },
+  {
+    "name": "Haslinger Custom Knives (HT Services)",
+    "url": "https://www.haslinger-knives.com/services/heat-treating-services",
+    "status": 200,
+    "final": "https://www.haslinger-knives.com/services/heat-treating-services"
+  },
+  {
+    "name": "MED TEK, Inc.",
+    "url": "https://med-tekinc.com/",
+    "status": 200,
+    "final": "https://med-tekinc.com/"
+  },
+  {
+    "name": "Applied Thermal Technologies",
+    "url": "https://www.appliedthermaltechnologies.com/services/",
+    "status": 200,
+    "final": "https://www.appliedthermaltechnologies.com/services/"
+  },
+  {
+    "name": "County Heat Treat, Inc.",
+    "url": "https://countyheattreat.com/",
+    "status": 200,
+    "final": "https://countyheattreat.com/"
+  },
+  {
+    "name": "Martin's Metal Services LLC",
+    "url": "https://martinsmetalservices.com/",
+    "status": 200,
+    "final": "https://martinsmetalservices.com/"
+  },
+  {
+    "name": "Metal Treaters, Inc.",
+    "url": "https://www.metaltreaters.com/",
+    "status": 200,
+    "final": "https://www.metaltreaters.com/"
+  },
+  {
+    "name": "Flame Metals Processing Corp.",
+    "url": "https://flamemetals.com/",
+    "status": 200,
+    "final": "https://flamemetals.com/"
+  },
+  {
+    "name": "Bodycote",
+    "url": "https://www.bodycote.com/",
+    "status": 200,
+    "final": "https://www.bodycote.com/"
+  },
+  {
+    "name": "Lake City Heat Treating (Bodycote)",
+    "url": "https://www.bodycote.com/heat-treatment-plants/bodycote-lake-city-indiana/",
+    "status": 200,
+    "final": "https://www.bodycote.com/heat-treatment-plants/bodycote-lake-city-indiana/"
+  },
+  {
+    "name": "Stack Metallurgical Group (Bodycote)",
+    "url": "https://www.stackmet.com/",
+    "status": 200,
+    "final": "https://www.stackmet.com/"
+  },
+  {
+    "name": "Paulo",
+    "url": "https://www.paulo.com/",
+    "status": 200,
+    "final": "https://www.paulo.com/"
+  },
+  {
+    "name": "Metex Heat Treating",
+    "url": "https://metexht.com/",
+    "status": 200,
+    "final": "https://metexht.com/"
+  },
+  {
+    "name": "Vacu-Braze",
+    "url": "https://www.vacubraze.net/capabilities/",
+    "status": 200,
+    "final": "https://www.vacubraze.net/capabilities/"
+  },
+  {
+    "name": "American Steel Treating",
+    "url": "https://www.americansteeltreating.com/",
+    "status": 404,
+    "final": "https://www.americansteeltreating.com/"
+  },
+  {
+    "name": "Metal Finishing Company",
+    "url": "https://metalfinishingco.com/",
+    "status": 200,
+    "final": "https://metalfinishingco.com/"
+  },
+  {
+    "name": "Byron Products",
+    "url": "https://byronproducts.com/heat-treating/",
+    "status": 200,
+    "final": "https://byronproducts.com/heat-treating/"
+  },
+  {
+    "name": "Solar Atmospheres",
+    "url": "https://solaratm.com/",
+    "status": 200,
+    "final": "https://solaratm.com/"
+  },
+  {
+    "name": "Bluewater Thermal",
+    "url": "https://bluewaterthermal.com",
+    "status": 200,
+    "final": "https://bluewaterthermal.com"
+  },
+  {
+    "name": "Rex Heat Treat",
+    "url": "https://www.rexht.com/",
+    "status": 200,
+    "final": "https://www.rexht.com/"
+  },
+  {
+    "name": "Precision Thermal Processing",
+    "url": "https://www.precisionthermal.com/tool-and-die/",
+    "status": 200,
+    "final": "https://www.precisionthermal.com/tool-and-die/"
+  },
+  {
+    "name": "Certified Heat Treating",
+    "url": "https://certifiedheat.com/",
+    "status": 200,
+    "final": "https://certifiedheat.com/"
+  },
+  {
+    "name": "National Metal Processing (NMP)",
+    "url": "https://nmpheattreat.com/",
+    "status": 200,
+    "final": "https://nmpheattreat.com/"
+  },
+  {
+    "name": "Quality Heat Treating (QHT)",
+    "url": "https://qualityht.com/",
+    "status": 200,
+    "final": "https://qualityht.com/"
+  },
+  {
+    "name": "Burbank Steel Treating Inc",
+    "url": "https://burbanksteel.com/",
+    "status": 200,
+    "final": "https://burbanksteel.com/"
+  },
+  {
+    "name": "Zion Industries, Inc.",
+    "url": "https://zioninduction.com/",
+    "status": 200,
+    "final": "https://zioninduction.com/"
+  },
+  {
+    "name": "Service Heat Treating Inc",
+    "url": "https://serviceht.com/",
+    "status": 200,
+    "final": "https://serviceht.com/"
+  },
+  {
+    "name": "Induction Heat Treating Corp",
+    "url": "https://www.ihtcorp.com/",
+    "status": 200,
+    "final": "https://www.ihtcorp.com/"
+  },
+  {
+    "name": "Southwest Specialty Heat Treatment, Inc.",
+    "url": "https://thermalprocessing.com/storefront/southwest-specialty-heat-treat/",
+    "status": 200,
+    "final": "https://thermalprocessing.com/storefront/southwest-specialty-heat-treat/"
+  },
+  {
+    "name": "ThermTech",
+    "url": "https://www.thermtech.net/",
+    "status": 200,
+    "final": "https://www.thermtech.net/"
+  },
+  {
+    "name": "Baron Machine Co., Inc.",
+    "url": "https://baronmachine.com/",
+    "status": 200,
+    "final": "https://baronmachine.com/"
+  }
+]
