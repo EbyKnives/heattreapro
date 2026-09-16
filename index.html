@@ -15,6 +15,7 @@
             --accent-hover: #d97706;
             --small-badge: #10b981;
             --large-badge: #3b82f6;
+            --full-badge: #f59e0b;
         }
 
         * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -159,6 +160,7 @@
 
         .badge-small { background: var(--small-badge); color: #000; }
         .badge-large { background: var(--large-badge); color: #fff; }
+        .badge-full { background: var(--full-badge); color: #000; }
 
         /* Cards */
         .cards-grid {
@@ -239,6 +241,8 @@
             font-size: 0.9rem;
             transition: color 0.2s;
         }
+                .card-phone { font-size: 0.85rem; margin-top: 8px; }
+                .card-phone a { color: var(--accent, #d4a017); text-decoration: none; font-weight: 600; }
 
         .card-link:hover { color: var(--accent-hover); }
 
@@ -324,6 +328,7 @@
         <a href="#" class="logo">Heat<span>Treat</span>Pro</a>
         <ul class="nav-links">
             <li><a href="#small-batch">Small Batch</a></li>
+            <li><a href="#full-range">Full Range</a></li>
             <li><a href="#large-scale">Large Scale</a></li>
             <li><a href="#submit">Submit a Shop</a></li>
         </ul>
@@ -343,7 +348,7 @@
 
     <div class="stats">
         <div>
-            <div class="stat-number">35+</div>
+            <div class="stat-number">35</div>
             <div class="stat-label">Shops Listed</div>
         </div>
         <div>
@@ -378,6 +383,8 @@
                     <span class="tag">Cryo</span>
                     <span class="tag">Knife Makers</span>
                 </div>
+                
+                <div class="card-phone">📞 <a href="tel:+8143331782">(814) 333-1782</a></div>
                 <a href="https://petersheattreat.com/blades/" target="_blank" class="card-link">Visit Website →</a>
             </div>
 
@@ -394,6 +401,8 @@
                     <span class="tag">Cryo</span>
                     <span class="tag">Famous</span>
                 </div>
+                
+                <div class="card-phone">📞 <a href="tel:+12082620500">(208) 262-0500 x21</a></div>
                 <a href="https://www.buckknives.com/about/behind-the-blade/paul-bos-heat-treating-services/" target="_blank" class="card-link">Visit Website →</a>
             </div>
 
@@ -424,22 +433,9 @@
                     <span class="tag">Oil Harden</span>
                     <span class="tag">High Volume Blades</span>
                 </div>
+                
+                <div class="card-phone">📞 <a href="tel:+9705323796">(970) 532-3796</a></div>
                 <a href="https://www.metalexts.com/heat-treating-services-provided-by-metalex/knife-blades-thermal-processing/" target="_blank" class="card-link">Visit Website →</a>
-            </div>
-
-            <div class="card">
-                <div class="card-header">
-                    <h3>The Kinetic Company</h3>
-                                        <span class="badge badge-small">Small Batch</span>
-                                    </div>
-                                    <div class="card-location">📍 Greendale, WI (6775 W Loomis Rd)</div>
-                                    <div class="card-services">ISO 9001 certified contract manufacturer with in-house vacuum heat treating, CNC milling/turning, and grinding. Est. 1948 — world's premier industrial knifemaker.</div>
-                                    <div class="card-tags">
-                                        <span class="tag">Vacuum</span>
-                                        <span class="tag">Metallurgy</span>
-                                        <span class="tag">ISO 9001</span>
-                                    </div>
-                                    <a href="https://www.knifemaker.com/" target="_blank" class="card-link">Visit Website →</a>
             </div>
 
             <div class="card">
@@ -453,6 +449,8 @@
                     <span class="tag">Custom Knives</span>
                     <span class="tag">Small Batch</span>
                 </div>
+                
+                <div class="card-phone">📞 <a href="tel:+5096907353">509-690-7353</a></div>
                 <a href="https://www.jarodtodd.com/" target="_blank" class="card-link">Visit Website →</a>
             </div>
 
@@ -473,38 +471,6 @@
 
             <div class="card">
                 <div class="card-header">
-                    <h3>MED TEK, Inc.</h3>
-                    <span class="badge badge-small">Small Batch</span>
-                </div>
-                <div class="card-location">📍 Minneapolis, MN</div>
-                                <div class="card-services">"No heat treating job too large or small." Batch hardening, aging, annealing for machine shops and fabricators. Local to MN and Central Canada for lower shipping costs.</div>
-                                <div class="card-tags">
-                                    <span class="tag">Batch Harden</span>
-                                    <span class="tag">Aging</span>
-                                    <span class="tag">Annealing</span>
-                                    <span class="tag">MN Local</span>
-                                </div>
-                <a href="https://med-tekinc.com/" target="_blank" class="card-link">Visit Website →</a>
-            </div>
-
-            <div class="card">
-                <div class="card-header">
-                    <h3>Applied Thermal Technologies</h3>
-                    <span class="badge badge-small">Small Batch</span>
-                </div>
-                <div class="card-location">📍 Warsaw, Indiana</div>
-                <div class="card-services">Bright vacuum heat treating for stainless steel and exotic alloys. Works with both large medical/aerospace OEMs and small machine shops. Tempering, hardening, sintering, titanium heat treating, brazing.</div>
-                <div class="card-tags">
-                    <span class="tag">Vacuum</span>
-                    <span class="tag">Stainless Steel</span>
-                    <span class="tag">Titanium</span>
-                    <span class="tag">Brazing</span>
-                </div>
-                <a href="https://www.appliedthermaltechnologies.com/services/" target="_blank" class="card-link">Visit Website →</a>
-            </div>
-
-            <div class="card">
-                <div class="card-header">
                     <h3>County Heat Treat, Inc.</h3>
                     <span class="badge badge-small">Small Batch</span>
                 </div>
@@ -516,7 +482,9 @@
                                     <span class="tag">Nitriding</span>
                                     <span class="tag">Tool Steel</span>
                                 </div>
-                                <a href="https://countyheattreat.com/" target="_blank" class="card-link">Visit Website →</a>
+                                
+                <div class="card-phone">📞 <a href="tel:+5088655885">(508) 865-5885</a></div>
+                <a href="https://countyheattreat.com/" target="_blank" class="card-link">Visit Website →</a>
             </div>
 
             <div class="card">
@@ -525,18 +493,71 @@
                     <span class="badge badge-small">Small Batch</span>
                 </div>
                 <div class="card-location">📍 Springfield, OH (1807 West Pleasant St)</div>
-                <div class="card-services">Expert induction heat treating services. Precision, durability, and fast turnaround for all industrial applications. Ohio's trusted experts in induction processes.</div>
+                <div class="card-services">Successor to Certified Heat Treating — former employees continue the same Springfield, OH business at the same address since 2022. Induction hardening, tempering, annealing, flame hardening, stress relieving, straightening. Fast turnaround.</div>
                 <div class="card-tags">
                     <span class="tag">Induction</span>
                     <span class="tag">Fast Turnaround</span>
+                    <span class="tag">Ex-Certified Heat Treat</span>
                 </div>
+                
+                <div class="card-phone">📞 <a href="tel:+9377170014">(937) 717-0014</a></div>
                 <a href="https://martinsmetalservices.com/" target="_blank" class="card-link">Visit Website →</a>
             </div>
+            </div>
+            </div>
 
-            <div class="card">
+        </div>
+    </section>
+
+    <!-- FULL RANGE SECTION -->
+    <section id="full-range">
+        <div class="section-header">
+            <h2><span class="badge badge-full">Full Range — Low to High Volume</span></h2>
+            <p style="color: var(--text-muted);">Shops that take one-off prototypes and high-volume production alike.</p>
+        </div>
+
+        <div class="cards-grid">
+
+                        <div class="card">
+                <div class="card-header">
+                    <h3>MED TEK, Inc.</h3>
+                    <span class="badge badge-full">Full Range — Low to High Volume</span>
+                </div>
+                <div class="card-location">📍 Minneapolis, MN</div>
+                                <div class="card-services">"No heat treating job too large or small." Batch hardening, aging, annealing for machine shops and fabricators. Local to MN and Central Canada for lower shipping costs.</div>
+                                <div class="card-tags">
+                                    <span class="tag">Batch Harden</span>
+                                    <span class="tag">Aging</span>
+                                    <span class="tag">Annealing</span>
+                                    <span class="tag">MN Local</span>
+                                </div>
+                
+                <div class="card-phone">📞 <a href="tel:+6127893527">(612) 789-3527</a></div>
+                <a href="https://med-tekinc.com/" target="_blank" class="card-link">Visit Website →</a>
+            </div>
+
+                        <div class="card">
+                <div class="card-header">
+                    <h3>Applied Thermal Technologies</h3>
+                    <span class="badge badge-full">Full Range — Low to High Volume</span>
+                </div>
+                <div class="card-location">📍 Warsaw, Indiana</div>
+                <div class="card-services">Bright vacuum heat treating for stainless steel and exotic alloys. Works with both large medical/aerospace OEMs and small machine shops. Tempering, hardening, sintering, titanium heat treating, brazing.</div>
+                <div class="card-tags">
+                    <span class="tag">Vacuum</span>
+                    <span class="tag">Stainless Steel</span>
+                    <span class="tag">Titanium</span>
+                    <span class="tag">Brazing</span>
+                </div>
+                
+                <div class="card-phone">📞 <a href="tel:+5742697116">(574) 269-7116</a></div>
+                <a href="https://www.appliedthermaltechnologies.com/services/" target="_blank" class="card-link">Visit Website →</a>
+            </div>
+
+                        <div class="card">
                 <div class="card-header">
                     <h3>Metal Treaters, Inc.</h3>
-                    <span class="badge badge-small">Small Batch</span>
+                    <span class="badge badge-full">Full Range — Low to High Volume</span>
                 </div>
                 <div class="card-location">📍 St. Paul, MN (859 Prior Avenue)</div>
                 <div class="card-services">Longest continuous ownership in the metal treating industry — since 1948. Vacuum heat treating, tool & die, gas carburizing, carbonitriding, neutral hardening, induction hardening, cryogenic deep freeze treatment. MTI member.</div>
@@ -547,13 +568,15 @@
                     <span class="tag">Cryo</span>
                     <span class="tag">MN Local</span>
                 </div>
+                
+                <div class="card-phone">📞 <a href="tel:+6516461316">651-646-1316</a></div>
                 <a href="https://www.metaltreaters.com/" target="_blank" class="card-link">Visit Website →</a>
             </div>
 
-            <div class="card">
+                        <div class="card">
                 <div class="card-header">
                     <h3>Flame Metals Processing Corp.</h3>
-                    <span class="badge badge-small">Small Batch</span>
+                    <span class="badge badge-full">Full Range — Low to High Volume</span>
                 </div>
                 <div class="card-location">📍 Rogers, MN (12450 Ironwood Circle)</div>
                 <div class="card-services">24/7 operation. Aluminum brazing, deep freeze treatments, vacuum processing. Known for solving metallurgical challenges and exceeding expectations.</div>
@@ -564,7 +587,96 @@
                     <span class="tag">24/7</span>
                     <span class="tag">MN Local</span>
                 </div>
+                
+                <div class="card-phone">📞 <a href="tel:+7634282596">763-428-2596</a></div>
                 <a href="https://flamemetals.com/" target="_blank" class="card-link">Visit Website →</a>
+            </div>
+
+                        <div class="card">
+                <div class="card-header">
+                    <h3>The Kinetic Company</h3>
+                                        <span class="badge badge-full">Full Range — Low to High Volume</span>
+                                    </div>
+                                    <div class="card-location">📍 Greendale, WI (6775 W Loomis Rd)</div>
+                                    <div class="card-services">ISO 9001 certified contract manufacturer with in-house vacuum heat treating, CNC milling/turning, and grinding. Est. 1948 — world's premier industrial knifemaker.</div>
+                                    <div class="card-tags">
+                                        <span class="tag">Vacuum</span>
+                                        <span class="tag">Metallurgy</span>
+                                        <span class="tag">ISO 9001</span>
+                                    </div>
+                                    
+                <div class="card-phone">📞 <a href="tel:+18667564837">1-866-7KNIVES (756-4837)</a></div>
+                <a href="https://www.knifemaker.com/" target="_blank" class="card-link">Visit Website →</a>
+            </div>
+
+                        <div class="card">
+                <div class="card-header">
+                    <h3>Byron Products</h3>
+                    <span class="badge badge-full">Full Range — Low to High Volume</span>
+                </div>
+                <div class="card-location">📍 2 facilities in Ohio</div>
+                <div class="card-services"><strong>NADCAP approved.</strong> Brazing, heat treating, welding, coatings. Aerospace focus. Stainless steel and high-temp aerospace alloys. Vacuum/atmosphere furnaces to AMS 2750 standards. Range of furnace sizes for small batch to high quantity production.</div>
+                <div class="card-tags">
+                    <span class="tag tag-nadcap">NADCAP</span>
+                    <span class="tag">Aerospace</span>
+                    <span class="tag">AMS 2750</span>
+                    <span class="tag">Vacuum</span>
+                </div>
+                
+                <div class="card-phone">📞 <a href="tel:+5138709111">(513) 870-9111</a></div>
+                <a href="https://byronproducts.com/heat-treating/" target="_blank" class="card-link">Visit Website →</a>
+            </div>
+
+                        <div class="card">
+                <div class="card-header">
+                    <h3>Service Heat Treating Inc</h3>
+                    <span class="badge badge-full">Full Range — Low to High Volume</span>
+                </div>
+                <div class="card-location">📍 Milwaukee, WI (2 locations)</div>
+                                <div class="card-services">Milwaukee area's solution for batch, vacuum, and gas nitride heat treating. Carburizing, carbonitriding, nitriding, ferritic nitrocarburizing, vacuum processing. Parts up to 105" length / 60" width. Low to high volume.</div>
+                                <div class="card-tags">
+                                    <span class="tag">Multi-Location</span>
+                                    <span class="tag">Nitriding</span>
+                                    <span class="tag">Heavy Industry</span>
+                                </div>
+                                
+                <div class="card-phone">📞 <a href="tel:+4143551020">414.355.1020</a></div>
+                <a href="https://serviceht.com/" target="_blank" class="card-link">Visit Website →</a>
+            </div>
+
+                        <div class="card">
+                <div class="card-header">
+                    <h3>ThermTech</h3>
+                    <span class="badge badge-full">Full Range — Low to High Volume</span>
+                </div>
+                <div class="card-location">📍 Waukesha, WI (305 Travis Ln)</div>
+                                <div class="card-services">ISO 9001 certified. Specializes in austempering of ductile iron and steel. Hardening, tempering, surface treatments, vacuum treatments, annealing. Serves forging, foundry, machining, and tool & die markets.</div>
+                                <div class="card-tags">
+                                    <span class="tag">Austempering</span>
+                                    <span class="tag">Tool Steel</span>
+                                    <span class="tag">ISO 9001</span>
+                                </div>
+                                
+                <div class="card-phone">📞 <a href="tel:+8007526917">(800) 752-6917</a></div>
+                <a href="https://www.thermtech.net/" target="_blank" class="card-link">Visit Website →</a>
+            </div>
+
+                        <div class="card">
+                <div class="card-header">
+                    <h3>Baron Machine Co., Inc.</h3>
+                    <span class="badge badge-full">Full Range — Low to High Volume</span>
+                </div>
+                <div class="card-location">📍 Laconia, NH (40 Primrose Dr S)</div>
+                                <div class="card-services">Third-generation family business. Heat treating for sand and centrifugal castings — annealing, normalizing, stress relieving, hardening, quenching & tempering. Gray/ductile iron, carbon steel, stainless, superalloys, Monel, Hastelloy, Inconel. Prototype to high volume.</div>
+                                <div class="card-tags">
+                                    <span class="tag">Castings</span>
+                                    <span class="tag">Superalloys</span>
+                                    <span class="tag">Inconel</span>
+                                    <span class="tag">Prototype</span>
+                                </div>
+                                
+                <div class="card-phone">📞 <a href="tel:+6035246800">603-524-6800</a></div>
+                <a href="https://baronmachine.com/" target="_blank" class="card-link">Visit Website →</a>
             </div>
 
         </div>
@@ -592,6 +704,8 @@
                     <span class="tag">Aerospace</span>
                     <span class="tag">Global</span>
                 </div>
+                
+                <div class="card-phone">📞 <a href="tel:+15742699484">+1 574 269 9484</a></div>
                 <a href="https://www.bodycote.com/" target="_blank" class="card-link">Visit Website →</a>
             </div>
 
@@ -607,6 +721,8 @@
                     <span class="tag">HIP</span>
                     <span class="tag">Vacuum</span>
                 </div>
+                
+                <div class="card-phone">📞 <a href="tel:+5742699484">(574) 269-9484</a></div>
                 <a href="https://www.bodycote.com/heat-treatment-plants/bodycote-lake-city-indiana/" target="_blank" class="card-link">Visit Website →</a>
             </div>
 
@@ -622,7 +738,9 @@
                                     <span class="tag">Aerospace</span>
                                     <span class="tag">Defense</span>
                                 </div>
-                                <a href="https://www.stackmet.com/" target="_blank" class="card-link">Visit Website →</a>
+                                
+                <div class="card-phone">📞 <a href="tel:+5032857703">(503) 285-7703</a></div>
+                <a href="https://www.stackmet.com/" target="_blank" class="card-link">Visit Website →</a>
             </div>
 
             <div class="card">
@@ -637,7 +755,9 @@
                                     <span class="tag">Austempering</span>
                                     <span class="tag">Brazing</span>
                                 </div>
-                                <a href="https://www.paulo.com/" target="_blank" class="card-link">Visit Website →</a>
+                                
+                <div class="card-phone">📞 <a href="tel:+3146477500">(314) 647-7500</a></div>
+                <a href="https://www.paulo.com/" target="_blank" class="card-link">Visit Website →</a>
             </div>
 
             <div class="card">
@@ -652,7 +772,9 @@
                                     <span class="tag">Fasteners</span>
                                     <span class="tag">Canada</span>
                                 </div>
-                                <a href="https://metexht.com/" target="_blank" class="card-link">Visit Website →</a>
+                                
+                <div class="card-phone">📞 <a href="tel:+9054539700">(905) 453-9700</a></div>
+                <a href="https://metexht.com/" target="_blank" class="card-link">Visit Website →</a>
             </div>
 
             <div class="card">
@@ -667,6 +789,8 @@
                     <span class="tag">Aerospace</span>
                     <span class="tag">Modern Facility</span>
                 </div>
+                
+                <div class="card-phone">📞 <a href="tel:+2154530414">215.453.0414</a></div>
                 <a href="https://www.vacubraze.net/capabilities/" target="_blank" class="card-link">Visit Website →</a>
             </div>
 
@@ -681,7 +805,9 @@
                                     <span class="tag">Steel Treatment</span>
                                     <span class="tag">High Volume</span>
                                 </div>
-                                <a href="https://thermalprocessing.com/storefront/american-steel-treating" target="_blank" class="card-link">More Info →</a>
+                                
+                <div class="card-phone">📞 <a href="tel:+4198742044">(419) 874-2044</a></div>
+                <a href="https://thermalprocessing.com/storefront/american-steel-treating" target="_blank" class="card-link">More Info →</a>
             </div>
 
             <div class="card">
@@ -696,23 +822,10 @@
                                     <span class="tag">Aerospace</span>
                                     <span class="tag">Shot Peening</span>
                                 </div>
-                                <a href="https://metalfinishingco.com/" target="_blank" class="card-link">Visit Website →</a>
+                                
+                <div class="card-phone">📞 <a href="tel:+3162677289">(316) 267-7289</a></div>
+                <a href="https://metalfinishingco.com/" target="_blank" class="card-link">Visit Website →</a>
             </div>
-
-            <div class="card">
-                <div class="card-header">
-                    <h3>Byron Products</h3>
-                    <span class="badge badge-large">Large Scale</span>
-                </div>
-                <div class="card-location">📍 2 facilities in Ohio</div>
-                <div class="card-services"><strong>NADCAP approved.</strong> Brazing, heat treating, welding, coatings. Aerospace focus. Stainless steel and high-temp aerospace alloys. Vacuum/atmosphere furnaces to AMS 2750 standards. Range of furnace sizes for small batch to high quantity production.</div>
-                <div class="card-tags">
-                    <span class="tag tag-nadcap">NADCAP</span>
-                    <span class="tag">Aerospace</span>
-                    <span class="tag">AMS 2750</span>
-                    <span class="tag">Vacuum</span>
-                </div>
-                <a href="https://byronproducts.com/heat-treating/" target="_blank" class="card-link">Visit Website →</a>
             </div>
 
             <div class="card">
@@ -727,6 +840,8 @@
                     <span class="tag">Brazing</span>
                     <span class="tag">International</span>
                 </div>
+                
+                <div class="card-phone">📞 <a href="tel:+8003473236">800-347-3236</a></div>
                 <a href="https://solaratm.com/" target="_blank" class="card-link">Visit Website →</a>
             </div>
 
@@ -742,6 +857,8 @@
                     <span class="tag">Nitriding</span>
                     <span class="tag">Multi-Location</span>
                 </div>
+                
+                <div class="card-phone">📞 <a href="tel:+8779900050">877-990-0050</a></div>
                 <a href="https://bluewaterthermal.com" target="_blank" class="card-link">Visit Website →</a>
             </div>
 
@@ -757,6 +874,8 @@
                     <span class="tag">Austempering</span>
                     <span class="tag">Martempering</span>
                 </div>
+                
+                <div class="card-phone">📞 <a href="tel:+2158551131">(215) 855-1131</a></div>
                 <a href="https://www.rexht.com/" target="_blank" class="card-link">Visit Website →</a>
             </div>
 
@@ -772,22 +891,10 @@
                     <span class="tag">Pickup/Delivery</span>
                     <span class="tag">Nitriding</span>
                 </div>
+                
+                <div class="card-phone">📞 <a href="tel:+7158238650">715-823-8650</a></div>
                 <a href="https://www.precisionthermal.com/tool-and-die/" target="_blank" class="card-link">Visit Website →</a>
             </div>
-
-            <div class="card">
-                <div class="card-header">
-                    <h3>Certified Heat Treating</h3>
-                    <span class="badge badge-large">Large Scale</span>
-                </div>
-                <div class="card-location">📍 Springfield, OH (1807 W Pleasant St)</div>
-                <div class="card-services">Engineering, construction, rail, agriculture, mining. Rigorous quality process with statistical control and continuous monitoring.</div>
-                <div class="card-tags">
-                    <span class="tag">Rail</span>
-                    <span class="tag">Mining</span>
-                    <span class="tag">Quality Control</span>
-                </div>
-                <a href="https://certifiedheat.com/" target="_blank" class="card-link">Visit Website →</a>
             </div>
 
             <div class="card">
@@ -803,6 +910,8 @@
                     <span class="tag">Vacuum</span>
                     <span class="tag">Family Owned</span>
                 </div>
+                
+                <div class="card-phone">📞 <a href="tel:+8596239291">(859) 623-9291</a></div>
                 <a href="https://nmpheattreat.com/" target="_blank" class="card-link">Visit Website →</a>
             </div>
 
@@ -819,6 +928,8 @@
                     <span class="tag">Salt Bath</span>
                     <span class="tag">Titanium</span>
                 </div>
+                
+                <div class="card-phone">📞 <a href="tel:+8188408212">(818) 840-8212</a></div>
                 <a href="https://qualityht.com/" target="_blank" class="card-link">Visit Website →</a>
             </div>
 
@@ -835,6 +946,8 @@
                     <span class="tag">Medical</span>
                     <span class="tag">Southern CA</span>
                 </div>
+                
+                <div class="card-phone">📞 <a href="tel:+8188420975">(818) 842-0975</a></div>
                 <a href="https://burbanksteel.com/" target="_blank" class="card-link">Visit Website →</a>
             </div>
 
@@ -851,22 +964,10 @@
                     <span class="tag">Induction</span>
                     <span class="tag">3 Locations</span>
                 </div>
+                
+                <div class="card-phone">📞 <a href="tel:+3304834650">(330) 483-4650</a></div>
                 <a href="https://zioninduction.com/" target="_blank" class="card-link">Visit Website →</a>
             </div>
-
-            <div class="card">
-                <div class="card-header">
-                    <h3>Service Heat Treating Inc</h3>
-                    <span class="badge badge-large">Large Scale</span>
-                </div>
-                <div class="card-location">📍 Milwaukee, WI (2 locations)</div>
-                                <div class="card-services">Milwaukee area's solution for batch, vacuum, and gas nitride heat treating. Carburizing, carbonitriding, nitriding, ferritic nitrocarburizing, vacuum processing. Parts up to 105" length / 60" width. Low to high volume.</div>
-                                <div class="card-tags">
-                                    <span class="tag">Multi-Location</span>
-                                    <span class="tag">Nitriding</span>
-                                    <span class="tag">Heavy Industry</span>
-                                </div>
-                                <a href="https://serviceht.com/" target="_blank" class="card-link">Visit Website →</a>
             </div>
 
             <div class="card">
@@ -881,7 +982,9 @@
                                     <span class="tag">Case Hardening</span>
                                     <span class="tag">Scanning</span>
                                 </div>
-                                <a href="https://www.ihtcorp.com/" target="_blank" class="card-link">Visit Website →</a>
+                                
+                <div class="card-phone">📞 <a href="tel:+8154777788">815.477.7788</a></div>
+                <a href="https://www.ihtcorp.com/" target="_blank" class="card-link">Visit Website →</a>
             </div>
 
             <div class="card">
@@ -895,38 +998,11 @@
                                     <span class="tag">Steel Heat Treat</span>
                                     <span class="tag">ISO 9001</span>
                                 </div>
-                                <a href="https://thermalprocessing.com/storefront/southwest-specialty-heat-treat/" target="_blank" class="card-link">More Info →</a>
+                                
+                <div class="card-phone">📞 <a href="tel:+2762287739">(276) 228-7739</a></div>
+                <a href="https://thermalprocessing.com/storefront/southwest-specialty-heat-treat/" target="_blank" class="card-link">More Info →</a>
             </div>
-
-            <div class="card">
-                <div class="card-header">
-                    <h3>ThermTech</h3>
-                    <span class="badge badge-large">Large Scale</span>
-                </div>
-                <div class="card-location">📍 Waukesha, WI (305 Travis Ln)</div>
-                                <div class="card-services">ISO 9001 certified. Specializes in austempering of ductile iron and steel. Hardening, tempering, surface treatments, vacuum treatments, annealing. Serves forging, foundry, machining, and tool & die markets.</div>
-                                <div class="card-tags">
-                                    <span class="tag">Austempering</span>
-                                    <span class="tag">Tool Steel</span>
-                                    <span class="tag">ISO 9001</span>
-                                </div>
-                                <a href="https://www.thermtech.net/" target="_blank" class="card-link">Visit Website →</a>
             </div>
-
-            <div class="card">
-                <div class="card-header">
-                    <h3>Baron Machine Co., Inc.</h3>
-                    <span class="badge badge-large">Large Scale</span>
-                </div>
-                <div class="card-location">📍 Laconia, NH (40 Primrose Dr S)</div>
-                                <div class="card-services">Third-generation family business. Heat treating for sand and centrifugal castings — annealing, normalizing, stress relieving, hardening, quenching & tempering. Gray/ductile iron, carbon steel, stainless, superalloys, Monel, Hastelloy, Inconel. Prototype to high volume.</div>
-                                <div class="card-tags">
-                                    <span class="tag">Castings</span>
-                                    <span class="tag">Superalloys</span>
-                                    <span class="tag">Inconel</span>
-                                    <span class="tag">Prototype</span>
-                                </div>
-                                <a href="https://baronmachine.com/" target="_blank" class="card-link">Visit Website →</a>
             </div>
 
         </div>

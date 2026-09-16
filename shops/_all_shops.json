@@ -1,7 +1,7 @@
 [
   {
     "name": "Peters' Heat Treating",
-    "location": "\ud83d\udccd Meadville, PA (11010 McHenry St)",
+    "location": "📍 Meadville, PA (11010 McHenry St)",
     "services": "The go-to for craft knife makers. ALL steel grades, oil hardening up to 24\", others up to 50\". Straightening, double temper, cryo treating.",
     "url": "https://petersheattreat.com/blades/",
     "tags": [
@@ -14,7 +14,7 @@
   },
   {
     "name": "Paul Bos Heat Treat",
-    "location": "\ud83d\udccd Post Falls, ID (660 S Lochsa St)",
+    "location": "📍 Post Falls, ID (660 S Lochsa St)",
     "services": "World-famous heat treat for custom knifemakers. Blade prep, steel heat treatment. Per-blade pricing for blades up to 10\", includes tempers and cryo.",
     "url": "https://www.buckknives.com/about/behind-the-blade/paul-bos-heat-treating-services/",
     "tags": [
@@ -27,7 +27,7 @@
   },
   {
     "name": "Pristine Heat Treat",
-    "location": "\ud83d\udccd New Braunfels, TX (493 Pecan Farms)",
+    "location": "📍 New Braunfels, TX (493 Pecan Farms)",
     "services": "Advanced vacuum furnaces, quenching systems, and cryogenic chambers. Tailored recipes: normalizing, austenitizing, quenching, tempering, cryo.",
     "url": "https://www.pristineheattreat.com/",
     "tags": [
@@ -39,7 +39,7 @@
   },
   {
     "name": "Metalex Thermal Specialties",
-    "location": "\ud83d\udccd Berthoud, CO (205 Turner Ave)",
+    "location": "📍 Berthoud, CO (205 Turner Ave)",
     "services": "Industry leader in knife blade hardening. Vacuum furnace with proprietary racking system to prevent warping. Oil hardening available. Thousands of blades/month.",
     "url": "https://www.metalexts.com/heat-treating-services-provided-by-metalex/knife-blades-thermal-processing/",
     "tags": [
@@ -51,19 +51,19 @@
   },
   {
     "name": "The Kinetic Company",
-    "location": "\ud83d\udccd Greendale, WI (6775 W Loomis Rd)",
-    "services": "ISO 9001 certified contract manufacturer with in-house vacuum heat treating, CNC milling/turning, and grinding. Est. 1948 \u2014 world's premier industrial knifemaker.",
+    "location": "📍 Greendale, WI (6775 W Loomis Rd)",
+    "services": "ISO 9001 certified contract manufacturer with in-house vacuum heat treating, CNC milling/turning, and grinding. Est. 1948 — world's premier industrial knifemaker.",
     "url": "https://www.knifemaker.com/",
     "tags": [
       "Vacuum",
       "Metallurgy",
       "ISO 9001"
     ],
-    "section": "small"
+    "section": "full"
   },
   {
     "name": "Jarod Todd Heat Treating",
-    "location": "\ud83d\udccd Colville, WA (657 G Williams Lake Rd)",
+    "location": "📍 Colville, WA (657 G Williams Lake Rd)",
     "services": "Dedicated to heat treating services for custom knife makers. \"Because steel is a terrible thing to waste.\"",
     "url": "https://www.jarodtodd.com/",
     "tags": [
@@ -74,19 +74,19 @@
   },
   {
     "name": "Haslinger Custom Knives (HT Services)",
-    "location": "\ud83d\udccd Alberta, Canada",
-    "services": "Custom-designed furnace with full atmospheric controls. Digital temperature accuracy \u00b13\u00b0F at 2000\u00b0F. Small scale specialty work for knifemakers and other industries.",
+    "location": "📍 Alberta, Canada",
+    "services": "Custom-designed furnace with full atmospheric controls. Digital temperature accuracy ±3°F at 2000°F. Small scale specialty work for knifemakers and other industries.",
     "url": "https://www.haslinger-knives.com/services/heat-treating-services",
     "tags": [
       "Atmosphere Control",
-      "\u00b13\u00b0F Accuracy",
+      "±3°F Accuracy",
       "Stainless Steels"
     ],
     "section": "small"
   },
   {
     "name": "MED TEK, Inc.",
-    "location": "\ud83d\udccd Minneapolis, MN",
+    "location": "📍 Minneapolis, MN",
     "services": "\"No heat treating job too large or small.\" Batch hardening, aging, annealing for machine shops and fabricators. Local to MN and Central Canada for lower shipping costs.",
     "url": "https://med-tekinc.com/",
     "tags": [
@@ -95,11 +95,11 @@
       "Annealing",
       "MN Local"
     ],
-    "section": "small"
+    "section": "full"
   },
   {
     "name": "Applied Thermal Technologies",
-    "location": "\ud83d\udccd Warsaw, Indiana",
+    "location": "📍 Warsaw, Indiana",
     "services": "Bright vacuum heat treating for stainless steel and exotic alloys. Works with both large medical/aerospace OEMs and small machine shops. Tempering, hardening, sintering, titanium heat treating, brazing.",
     "url": "https://www.appliedthermaltechnologies.com/services/",
     "tags": [
@@ -108,11 +108,11 @@
       "Titanium",
       "Brazing"
     ],
-    "section": "small"
+    "section": "full"
   },
   {
     "name": "County Heat Treat, Inc.",
-    "location": "\ud83d\udccd Millbury, MA (32 Howe Ave, est. 1967)",
+    "location": "📍 Millbury, MA (32 Howe Ave, est. 1967)",
     "services": "ISO 9001 & FAA-certified, family-owned second generation. Aluminum, tool steel, stainless steel. Carburizing, nitriding, vacuum hardening, stress relieving, aging. Serving New England.",
     "url": "https://countyheattreat.com/",
     "tags": [
@@ -125,19 +125,20 @@
   },
   {
     "name": "Martin's Metal Services LLC",
-    "location": "\ud83d\udccd Springfield, OH (1807 West Pleasant St)",
-    "services": "Expert induction heat treating services. Precision, durability, and fast turnaround for all industrial applications. Ohio's trusted experts in induction processes.",
+    "location": "📍 Springfield, OH (1807 West Pleasant St)",
+    "services": "Successor to Certified Heat Treating — former employees continue the same Springfield, OH business at the same address since 2022. Induction hardening, tempering, annealing, flame hardening, stress relieving, straightening. Fast turnaround.",
     "url": "https://martinsmetalservices.com/",
     "tags": [
       "Induction",
-      "Fast Turnaround"
+      "Fast Turnaround",
+      "Ex-Certified Heat Treat"
     ],
     "section": "small"
   },
   {
     "name": "Metal Treaters, Inc.",
-    "location": "\ud83d\udccd St. Paul, MN (859 Prior Avenue)",
-    "services": "Longest continuous ownership in the metal treating industry \u2014 since 1948. Vacuum heat treating, tool & die, gas carburizing, carbonitriding, neutral hardening, induction hardening, cryogenic deep freeze treatment. MTI member.",
+    "location": "📍 St. Paul, MN (859 Prior Avenue)",
+    "services": "Longest continuous ownership in the metal treating industry — since 1948. Vacuum heat treating, tool & die, gas carburizing, carbonitriding, neutral hardening, induction hardening, cryogenic deep freeze treatment. MTI member.",
     "url": "https://www.metaltreaters.com/",
     "tags": [
       "Vacuum",
@@ -146,11 +147,11 @@
       "Cryo",
       "MN Local"
     ],
-    "section": "small"
+    "section": "full"
   },
   {
     "name": "Flame Metals Processing Corp.",
-    "location": "\ud83d\udccd Rogers, MN (12450 Ironwood Circle)",
+    "location": "📍 Rogers, MN (12450 Ironwood Circle)",
     "services": "24/7 operation. Aluminum brazing, deep freeze treatments, vacuum processing. Known for solving metallurgical challenges and exceeding expectations.",
     "url": "https://flamemetals.com/",
     "tags": [
@@ -160,11 +161,11 @@
       "24/7",
       "MN Local"
     ],
-    "section": "small"
+    "section": "full"
   },
   {
     "name": "Bodycote",
-    "location": "\ud83d\udccd Multiple locations (US + global)",
+    "location": "📍 Multiple locations (US + global)",
     "services": "World's largest heat treatment provider. Vacuum heat treat, HIP, additive manufacturing support. Acquired Lake City Heat Treating & Stack Metallurgical Group. New facility in Monterrey, Mexico.",
     "url": "https://www.bodycote.com/",
     "tags": [
@@ -177,7 +178,7 @@
   },
   {
     "name": "Lake City Heat Treating (Bodycote)",
-    "location": "\ud83d\udccd Warsaw, Indiana",
+    "location": "📍 Warsaw, Indiana",
     "services": "Vacuum heat treatment and hot isostatic pressing for medical market. Now part of Bodycote family since 2024.",
     "url": "https://www.bodycote.com/heat-treatment-plants/bodycote-lake-city-indiana/",
     "tags": [
@@ -189,7 +190,7 @@
   },
   {
     "name": "Stack Metallurgical Group (Bodycote)",
-    "location": "\ud83d\udccd Portland, OR (5938 N Basin Ave) + 4 locations",
+    "location": "📍 Portland, OR (5938 N Basin Ave) + 4 locations",
     "services": "HIP, heat treatment, metal finishing. Key provider for civil aerospace, defense, and energy markets. Acquired by Bodycote in 2023/2024.",
     "url": "https://www.stackmet.com/",
     "tags": [
@@ -201,7 +202,7 @@
   },
   {
     "name": "Paulo",
-    "location": "\ud83d\udccd St. Louis, MO; Cleveland, OH; Kansas City, KS; Nashville, TN; Murfreesboro, TN",
+    "location": "📍 St. Louis, MO; Cleveland, OH; Kansas City, KS; Nashville, TN; Murfreesboro, TN",
     "services": "#3 largest commercial heat treater in North America (2024 rankings). Austempering, carburizing, carbonitriding, through hardening, vacuum heat treatment, high-temp vacuum brazing. Part of Aalberts Surface Technologies.",
     "url": "https://www.paulo.com/",
     "tags": [
@@ -213,8 +214,8 @@
   },
   {
     "name": "Metex Heat Treating",
-    "location": "\ud83d\udccd Brampton, ON (225 Wilkinson Rd) \u2014 largest in Canada",
-    "services": "Largest commercial heat treater in Canada. 7 continuous furnaces including 3 of the largest in Canada \u2014 over 300,000 lbs/day. Mesh belt fastener treating, induction hardening, nitriding, carburizing. Acquired Exactatherm.",
+    "location": "📍 Brampton, ON (225 Wilkinson Rd) — largest in Canada",
+    "services": "Largest commercial heat treater in Canada. 7 continuous furnaces including 3 of the largest in Canada — over 300,000 lbs/day. Mesh belt fastener treating, induction hardening, nitriding, carburizing. Acquired Exactatherm.",
     "url": "https://metexht.com/",
     "tags": [
       "Mesh Belt",
@@ -225,7 +226,7 @@
   },
   {
     "name": "Vacu-Braze",
-    "location": "\ud83d\udccd Quakertown, PA",
+    "location": "📍 Quakertown, PA",
     "services": "High-end heat treating for medical, aerospace, and defense. Modern facility. New entry on Monty's Top 52 list (2024/2025). Vacuum heat treatment, brazing, atmospheric heat treatment, metallurgical consulting.",
     "url": "https://www.vacubraze.net/capabilities/",
     "tags": [
@@ -237,8 +238,8 @@
   },
   {
     "name": "American Steel Treating",
-    "location": "\ud83d\udccd Perrysburg, OH (29200 Glenwood Rd)",
-    "services": "High-volume steel treating with robotic part transfer \u2014 millions of parts per year. Listed on Monty's Top 50 list for multiple years.",
+    "location": "📍 Perrysburg, OH (29200 Glenwood Rd)",
+    "services": "High-volume steel treating with robotic part transfer — millions of parts per year. Listed on Monty's Top 50 list for multiple years.",
     "url": "https://www.americansteeltreating.com/",
     "tags": [
       "Steel Treatment",
@@ -248,8 +249,8 @@
   },
   {
     "name": "Metal Finishing Company",
-    "location": "\ud83d\udccd Wichita, KS (1423 S McLean Blvd)",
-    "services": "<strong>NADCAP \u2014 17 accreditations.</strong> Approved by Northrop Grumman for heat treatment to AMS 2750/3. Aluminum + steel heat treating, shot peening, thermal spray. 350+ employees, 500,000+ sq ft. On Monty's Top 50 list.",
+    "location": "📍 Wichita, KS (1423 S McLean Blvd)",
+    "services": "<strong>NADCAP — 17 accreditations.</strong> Approved by Northrop Grumman for heat treatment to AMS 2750/3. Aluminum + steel heat treating, shot peening, thermal spray. 350+ employees, 500,000+ sq ft. On Monty's Top 50 list.",
     "url": "https://metalfinishingco.com/",
     "tags": [
       "NADCAP",
@@ -260,7 +261,7 @@
   },
   {
     "name": "Byron Products",
-    "location": "\ud83d\udccd 2 facilities in Ohio",
+    "location": "📍 2 facilities in Ohio",
     "services": "<strong>NADCAP approved.</strong> Brazing, heat treating, welding, coatings. Aerospace focus. Stainless steel and high-temp aerospace alloys. Vacuum/atmosphere furnaces to AMS 2750 standards. Range of furnace sizes for small batch to high quantity production.",
     "url": "https://byronproducts.com/heat-treating/",
     "tags": [
@@ -269,12 +270,12 @@
       "AMS 2750",
       "Vacuum"
     ],
-    "section": "large"
+    "section": "full"
   },
   {
     "name": "Solar Atmospheres",
-    "location": "\ud83d\udccd Multiple locations",
-    "services": "Vacuum heat treating & brazing \u2014 annealing, stress relieving, age hardening. International full-service provider.",
+    "location": "📍 Multiple locations",
+    "services": "Vacuum heat treating & brazing — annealing, stress relieving, age hardening. International full-service provider.",
     "url": "https://solaratm.com/",
     "tags": [
       "Vacuum",
@@ -285,8 +286,8 @@
   },
   {
     "name": "Bluewater Thermal",
-    "location": "\ud83d\udccd Midwest (IL, IN, MI), PA, TX",
-    "services": "Precision metal heat treating \u2014 hardening, carburizing, nitriding, annealing. Multiple locations across key industrial corridors.",
+    "location": "📍 Midwest (IL, IN, MI), PA, TX",
+    "services": "Precision metal heat treating — hardening, carburizing, nitriding, annealing. Multiple locations across key industrial corridors.",
     "url": "https://bluewaterthermal.com",
     "tags": [
       "Carburizing",
@@ -297,7 +298,7 @@
   },
   {
     "name": "Rex Heat Treat",
-    "location": "\ud83d\udccd Bedford, PA (7 Corporate Dr) & Lansdale, PA (951 W 8th St)",
+    "location": "📍 Bedford, PA (7 Corporate Dr) & Lansdale, PA (951 W 8th St)",
     "services": "Large commercial treater with 30+ services including austempering, martempering, vacuum heat treating.",
     "url": "https://www.rexht.com/",
     "tags": [
@@ -309,7 +310,7 @@
   },
   {
     "name": "Precision Thermal Processing",
-    "location": "\ud83d\udccd Perkasie, PA (part of the Vacu Braze network)",
+    "location": "📍 Perkasie, PA (part of the Vacu Braze network)",
     "services": "ISO 9001 & ISO 17025 accredited. Tool & die focus with engineered solutions and in-house metallurgical lab services. Hardening, normalizing, carburizing, nitriding, flame hardening, aging.",
     "url": "https://www.precisionthermal.com/tool-and-die/",
     "tags": [
@@ -320,20 +321,8 @@
     "section": "large"
   },
   {
-    "name": "Certified Heat Treating",
-    "location": "\ud83d\udccd Springfield, OH (1807 W Pleasant St)",
-    "services": "Engineering, construction, rail, agriculture, mining. Rigorous quality process with statistical control and continuous monitoring.",
-    "url": "https://certifiedheat.com/",
-    "tags": [
-      "Rail",
-      "Mining",
-      "Quality Control"
-    ],
-    "section": "large"
-  },
-  {
     "name": "National Metal Processing (NMP)",
-    "location": "\ud83d\udccd Richmond, Kentucky (est. 1969)",
+    "location": "📍 Richmond, Kentucky (est. 1969)",
     "services": "Family-owned since 1969. Batch integral quench processing, carbonitriding, carburizing, scanning + single point induction, tempering, vacuum heat treating, laser surface hardening, laser welding. Served Winter Olympics ice skating blade supplier.",
     "url": "https://nmpheattreat.com/",
     "tags": [
@@ -346,7 +335,7 @@
   },
   {
     "name": "Quality Heat Treating (QHT)",
-    "location": "\ud83d\udccd Burbank, CA (est. early 1950s)",
+    "location": "📍 Burbank, CA (est. early 1950s)",
     "services": "<strong>NADCAP accredited.</strong> Aerospace approved. Atmosphere batch heat treating; vacuum with argon/nitrogen quench; argon retort; neutral salt bath. Alloy/stainless/tool/copper/titanium alloys. FAA Repair Station Certificate. 35+ employees. Pick-up/delivery fleet.",
     "url": "https://qualityht.com/",
     "tags": [
@@ -359,7 +348,7 @@
   },
   {
     "name": "Burbank Steel Treating Inc",
-    "location": "\ud83d\udccd Burbank, CA (415 S Varney St)",
+    "location": "📍 Burbank, CA (415 S Varney St)",
     "services": "<strong>NADCAP certified.</strong> Aerospace, military, automotive, electronic, medical industries. Commercial + specialty steel treating. One of the most respected metal heat treating service companies in Southern California.",
     "url": "https://burbanksteel.com/",
     "tags": [
@@ -372,7 +361,7 @@
   },
   {
     "name": "Zion Industries, Inc.",
-    "location": "\ud83d\udccd Valley City OH / NC / MI (est. 1977)",
+    "location": "📍 Valley City OH / NC / MI (est. 1977)",
     "services": "<strong>Nadcap Merit status</strong> for heat treating and brazing. IATF-16949 certified. Induction heat treating, annealing, brazing, magnetic particle inspection, prototype/development, engineering/consulting. Specialized in induction processes.",
     "url": "https://zioninduction.com/",
     "tags": [
@@ -385,7 +374,7 @@
   },
   {
     "name": "Service Heat Treating Inc",
-    "location": "\ud83d\udccd Milwaukee, WI (2 locations)",
+    "location": "📍 Milwaukee, WI (2 locations)",
     "services": "Milwaukee area's solution for batch, vacuum, and gas nitride heat treating. Carburizing, carbonitriding, nitriding, ferritic nitrocarburizing, vacuum processing. Parts up to 105\" length / 60\" width. Low to high volume.",
     "url": "https://serviceht.com/",
     "tags": [
@@ -393,12 +382,12 @@
       "Nitriding",
       "Heavy Industry"
     ],
-    "section": "large"
+    "section": "full"
   },
   {
     "name": "Induction Heat Treating Corp",
-    "location": "\ud83d\udccd Crystal Lake, IL (775 Tek Dr)",
-    "services": "Est. 1946 \u2014 Midwest's most versatile induction heat treating facility. Two-time \"Commercial Heat Treater of the Year\" (Industrial Heating Magazine). Induction annealing, tempering, case hardening, scan hardening.",
+    "location": "📍 Crystal Lake, IL (775 Tek Dr)",
+    "services": "Est. 1946 — Midwest's most versatile induction heat treating facility. Two-time \"Commercial Heat Treater of the Year\" (Industrial Heating Magazine). Induction annealing, tempering, case hardening, scan hardening.",
     "url": "https://www.ihtcorp.com/",
     "tags": [
       "Induction",
@@ -409,7 +398,7 @@
   },
   {
     "name": "Southwest Specialty Heat Treatment, Inc.",
-    "location": "\ud83d\udccd Wytheville, VA (255 E Marshall St)",
+    "location": "📍 Wytheville, VA (255 E Marshall St)",
     "services": "Est. 1995, ISO 9001-2015 certified. Steel heat treating service with in-house machining. Listed among Top 52 commercial heat treaters.",
     "url": "https://thermalprocessing.com/storefront/southwest-specialty-heat-treat/",
     "tags": [
@@ -420,7 +409,7 @@
   },
   {
     "name": "ThermTech",
-    "location": "\ud83d\udccd Waukesha, WI (305 Travis Ln)",
+    "location": "📍 Waukesha, WI (305 Travis Ln)",
     "services": "ISO 9001 certified. Specializes in austempering of ductile iron and steel. Hardening, tempering, surface treatments, vacuum treatments, annealing. Serves forging, foundry, machining, and tool & die markets.",
     "url": "https://www.thermtech.net/",
     "tags": [
@@ -428,12 +417,12 @@
       "Tool Steel",
       "ISO 9001"
     ],
-    "section": "large"
+    "section": "full"
   },
   {
     "name": "Baron Machine Co., Inc.",
-    "location": "\ud83d\udccd Laconia, NH (40 Primrose Dr S)",
-    "services": "Third-generation family business. Heat treating for sand and centrifugal castings \u2014 annealing, normalizing, stress relieving, hardening, quenching & tempering. Gray/ductile iron, carbon steel, stainless, superalloys, Monel, Hastelloy, Inconel. Prototype to high volume.",
+    "location": "📍 Laconia, NH (40 Primrose Dr S)",
+    "services": "Third-generation family business. Heat treating for sand and centrifugal castings — annealing, normalizing, stress relieving, hardening, quenching & tempering. Gray/ductile iron, carbon steel, stainless, superalloys, Monel, Hastelloy, Inconel. Prototype to high volume.",
     "url": "https://baronmachine.com/",
     "tags": [
       "Castings",
@@ -441,6 +430,6 @@
       "Inconel",
       "Prototype"
     ],
-    "section": "large"
+    "section": "full"
   }
 ]
