@@ -304,5 +304,77 @@
     "url": "https://www.modernht.com/",
     "status": 200,
     "final": "https://www.modernht.com/"
+  },
+  {
+    "name": "Parker Trutec",
+    "url": "https://www.parkertrutec.com/",
+    "status": 200,
+    "final": "https://www.parkertrutec.com/"
+  },
+  {
+    "name": "Lone Star Heat Treating",
+    "url": "https://lsht.com/",
+    "status": 200,
+    "final": "https://lsht.com/"
+  },
+  {
+    "name": "Lark Heat Treating",
+    "url": "https://www.larkheat.com/",
+    "status": 200,
+    "final": "https://www.larkheat.com/"
+  },
+  {
+    "name": "Ohio Metallurgical Service",
+    "url": "https://www.ohiomet.com/",
+    "status": 200,
+    "final": "https://www.ohiomet.com/"
+  },
+  {
+    "name": "Engineered Heat Treat",
+    "url": "https://engineeredheattreat.com/",
+    "status": 200,
+    "final": "https://engineeredheattreat.com/"
+  },
+  {
+    "name": "Century Sun Metal Treating",
+    "url": "https://www.century-sun.com/",
+    "status": 200,
+    "final": "https://www.century-sun.com/"
+  },
+  {
+    "name": "Pressure Technology (PTI)",
+    "url": "https://www.pressuretechnology.com/",
+    "status": 200,
+    "final": "https://www.pressuretechnology.com/"
+  },
+  {
+    "name": "Southwest Metal Treating",
+    "url": "https://southwestmetaltreating.com/",
+    "status": 200,
+    "final": "https://southwestmetaltreating.com/"
+  },
+  {
+    "name": "ALD Heat Treatment Services",
+    "url": "https://heat-treatment-services.com/",
+    "status": 0,
+    "final": "https://heat-treatment-services.com/"
+  },
+  {
+    "name": "Pinson Valley Heat Treating",
+    "url": "https://www.pvht.com/",
+    "status": 200,
+    "final": "https://www.pvht.com/"
+  },
+  {
+    "name": "Nitrex Heat Treating Services",
+    "url": "https://www.nitrex.com/en/heat-treating-services-2/",
+    "status": 200,
+    "final": "https://www.nitrex.com/en/heat-treating-services-2/"
+  },
+  {
+    "name": "Specialty Heat Treat",
+    "url": "https://www.specialtyheattreat.com/",
+    "status": 200,
+    "final": "https://www.specialtyheattreat.com/"
   }
 ]

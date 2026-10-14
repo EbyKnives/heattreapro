@@ -678,5 +678,162 @@
     ],
     "section": "large",
     "phone": null
+  },
+  {
+    "name": "Parker Trutec",
+    "location": "📍 Springfield, OH + other US plants (TN, AR)",
+    "services": "Nihon Parkerizing's North American subsidiary. Isonite salt-bath nitriding to AMS 2755/2753, ferritic nitrocarburizing, carburizing, carbonitriding, neutral hardening, continuous roller-hearth carburizing.",
+    "url": "https://www.parkertrutec.com/",
+    "tags": [
+      "Nitriding",
+      "Salt Bath",
+      "Multi-Location"
+    ],
+    "section": "large",
+    "phone": null
+  },
+  {
+    "name": "Lone Star Heat Treating",
+    "location": "📍 Houston, TX (3939 Blaffer St)",
+    "services": "Since 1945 — first US commercial heat treater with ISO 9001; AS9100. Handles parts to 100,000 lbs and 58 ft. Induction (4 N/C vertical scanners, 125kW), vertical treating, controlled-atmosphere carburizing, I.D. drilling, continuous barrel furnace, straightening, UT, in-house lab.",
+    "url": "https://lsht.com/",
+    "tags": [
+      "Induction",
+      "Heavy Capacity",
+      "AS9100",
+      "ISO 9001"
+    ],
+    "section": "large",
+    "phone": null
+  },
+  {
+    "name": "Lark Heat Treating",
+    "location": "📍 Houston, TX (6640 Mayard Rd)",
+    "services": "Founded 1978. ISO 9001:2015, MTI member. Carburizing, carbonitriding, gas nitriding, stress relieving, solution anneal, quench &amp; temper. Customers range from local machine shops to international oil &amp; gas.",
+    "url": "https://www.larkheat.com/",
+    "tags": [
+      "Nitriding",
+      "Carburizing",
+      "ISO 9001"
+    ],
+    "section": "large",
+    "phone": "(713) 937-9089"
+  },
+  {
+    "name": "Ohio Metallurgical Service",
+    "location": "📍 Elyria, OH",
+    "services": "Since 1947. NADCAP accredited. Oil quench (carburizing, carbonitriding, hardening), induction (hardening, tempering, annealing), vacuum (hardening, precipitation hardening), bell furnaces, straightening presses, QA lab.",
+    "url": "https://www.ohiomet.com/",
+    "tags": [
+      "NADCAP",
+      "Vacuum",
+      "Induction"
+    ],
+    "section": "large",
+    "phone": "440-365-4104"
+  },
+  {
+    "name": "Engineered Heat Treat",
+    "location": "📍 Madison Heights, MI",
+    "services": "Since 1959, now a BMT Aerospace company. NADCAP, AS9100, ITAR, ISO/IEC 17025, CMMC Level 2. Vacuum heat treating with in-house metallurgical lab. Aerospace &amp; defense, medical, automotive, performance racing.",
+    "url": "https://engineeredheattreat.com/",
+    "tags": [
+      "NADCAP",
+      "Aerospace",
+      "Vacuum"
+    ],
+    "section": "large",
+    "phone": null
+  },
+  {
+    "name": "Century Sun Metal Treating",
+    "location": "📍 Traverse City, MI",
+    "services": "40+ years of \"high end\" heat treating — ion nitriding and vacuum hardening lead a wide range of thermal processes. Own truck fleet, 24/7 carrier service, detailed hardness inspection and protective packaging.",
+    "url": "https://www.century-sun.com/",
+    "tags": [
+      "Ion Nitriding",
+      "Vacuum",
+      "Northern MI"
+    ],
+    "section": "large",
+    "phone": null
+  },
+  {
+    "name": "Pressure Technology (PTI)",
+    "location": "📍 Warminster, PA + Concord, OH + Alachua, FL",
+    "services": "Hot isostatic pressing specialist — 13 units to 30\" dia × 105\" high, 30,000 psi, 2550°F. ISO 9001, AS9100, NADCAP; approved by P&amp;W, GE, Rolls-Royce, Lockheed. Castings, powder metallurgy, additive manufacturing.",
+    "url": "https://www.pressuretechnology.com/",
+    "tags": [
+      "HIP",
+      "NADCAP",
+      "Multi-Location"
+    ],
+    "section": "large",
+    "phone": null
+  },
+  {
+    "name": "Southwest Metal Treating",
+    "location": "📍 Fort Worth, TX",
+    "services": "Family-owned 40+ years. Full service — vacuum heat treating, carburizing, nitro carburizing, flame hardening, normalizing, stress relieving, plasma nitriding. MTI member. 50,000 sq ft on 7 acres.",
+    "url": "https://southwestmetaltreating.com/",
+    "tags": [
+      "Full Service",
+      "Plasma Nitriding",
+      "Vacuum"
+    ],
+    "section": "large",
+    "phone": null
+  },
+  {
+    "name": "ALD Heat Treatment Services",
+    "location": "📍 Port Huron, MI",
+    "services": "US arm of ALD Vacuum Technologies (Germany). High-pressure gas quenching, low-pressure carburizing, hardening, annealing, tempering — industrial-scale automotive and mechanical engineering work.",
+    "url": "https://heat-treatment-services.com/",
+    "tags": [
+      "Vacuum",
+      "Low Pressure Carburizing",
+      "Automotive"
+    ],
+    "section": "large",
+    "phone": null
+  },
+  {
+    "name": "Pinson Valley Heat Treating",
+    "location": "📍 Pinson, AL (6179 Sunrise Dr)",
+    "services": "Family-owned since 1970, just north of Birmingham. Stress relieving, vacuum hardening, annealing, oil/water quench &amp; temper, aluminum solution treat &amp; age, shot blast. AS9100. Serves fabrication, machining, forging &amp; casting shops across the southeast.",
+    "url": "https://www.pvht.com/",
+    "tags": [
+      "Castings",
+      "Vacuum",
+      "AS9100"
+    ],
+    "section": "large",
+    "phone": null
+  },
+  {
+    "name": "Nitrex Heat Treating Services",
+    "location": "📍 Franklin, IN + Aurora, IL + Mason, MI",
+    "services": "NITREG® nitriding and nitrocarburizing specialists. AS9100D + NADCAP certified. Also vacuum and conventional heat treatments. Aerospace, automotive, defense, medical, oil &amp; gas.",
+    "url": "https://www.nitrex.com/en/heat-treating-services-2/",
+    "tags": [
+      "NADCAP",
+      "Nitriding",
+      "Multi-Location"
+    ],
+    "section": "large",
+    "phone": null
+  },
+  {
+    "name": "Specialty Heat Treat",
+    "location": "📍 Houston, TX (11307 W Little York Rd)",
+    "services": "Since 1993. Atmosphere heat treating, carburizing, normalizing, annealing, age hardening, quenching, tempering. 3 saws to 28\" OD, 6 presses to 1,000 ton, in-house Brinell/Rockwell testing. Oil &amp; gas, aerospace, automotive.",
+    "url": "https://www.specialtyheattreat.com/",
+    "tags": [
+      "Carburizing",
+      "Oil &amp; Gas",
+      "Presses"
+    ],
+    "section": "large",
+    "phone": "(713) 937-3101"
   }
 ]
