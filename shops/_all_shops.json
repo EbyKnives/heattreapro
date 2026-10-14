@@ -16,7 +16,7 @@
   {
     "name": "Paul Bos Heat Treat",
     "location": "📍 Post Falls, ID (660 S Lochsa St)",
-    "services": "World-famous heat treat for custom knifemakers. Blade prep, steel heat treatment. Per-blade pricing for blades up to 10\", includes tempers and cryo.",
+    "services": "World-famous heat treat for custom knifemakers. Per-blade pricing for blades up to 10\", includes tempers and cryo. Bos retired from Buck but still treats blades personally (direct: 928-237-1656); the Post Falls plant runs under Paul Farner.",
     "url": "https://www.buckknives.com/about/behind-the-blade/paul-bos-heat-treating-services/",
     "tags": [
       "Blades",
@@ -114,6 +114,33 @@
       "Blades",
       "Small Batch",
       "Canada"
+    ],
+    "section": "small",
+    "phone": null
+  },
+  {
+    "name": "Pacific Heat Treating",
+    "location": "📍 Sunnyvale, CA (1238 Birchwood Dr)",
+    "services": "Family shop since 1961 — a customer testimonial on their site cites 40 years of knife blade heat treating. Cryogenic, deep freeze, vacuum, induction, flame hardening, precipitation/solution treating, straightening. Stainless, PH stainless, tool steels, titanium, Inconel. Free Silicon Valley pickup/delivery.",
+    "url": "https://www.pacificheattreating.com/",
+    "tags": [
+      "Blades",
+      "Cryo",
+      "Vacuum",
+      "West Coast"
+    ],
+    "section": "small",
+    "phone": "(408) 736-8500"
+  },
+  {
+    "name": "Texas Knifemaker's Supply",
+    "location": "📍 Houston, TX",
+    "services": "Knife supply house since 1980 with in-house heat treat and cryogenic tempering of air-quenching steels, plus sharpening services. A community fixture — recommended repeatedly on BladeForums and listed by the Texas knifemaking community.",
+    "url": "https://www.texasknife.com/",
+    "tags": [
+      "Blades",
+      "Cryo",
+      "Knife Supply"
     ],
     "section": "small",
     "phone": null

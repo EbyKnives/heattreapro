@@ -54,6 +54,18 @@
     "final": "https://nexusgrinders.ca/product/heat-treating-and-tempering/"
   },
   {
+    "name": "Pacific Heat Treating",
+    "url": "https://www.pacificheattreating.com/",
+    "status": 200,
+    "final": "https://www.pacificheattreating.com/"
+  },
+  {
+    "name": "Texas Knifemaker's Supply",
+    "url": "https://www.texasknife.com/",
+    "status": 0,
+    "final": "https://www.texasknife.com/"
+  },
+  {
     "name": "MED TEK, Inc.",
     "url": "https://med-tekinc.com/",
     "status": 200,
