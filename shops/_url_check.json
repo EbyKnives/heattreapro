@@ -24,12 +24,6 @@
     "final": "https://www.metalexts.com/heat-treating-services-provided-by-metalex/knife-blades-thermal-processing/"
   },
   {
-    "name": "The Kinetic Company",
-    "url": "https://www.knifemaker.com/",
-    "status": 200,
-    "final": "https://www.knifemaker.com/"
-  },
-  {
     "name": "Jarod Todd Heat Treating",
     "url": "https://www.jarodtodd.com/",
     "status": 200,
@@ -40,18 +34,6 @@
     "url": "https://www.haslinger-knives.com/services/heat-treating-services",
     "status": 200,
     "final": "https://www.haslinger-knives.com/services/heat-treating-services"
-  },
-  {
-    "name": "MED TEK, Inc.",
-    "url": "https://med-tekinc.com/",
-    "status": 200,
-    "final": "https://med-tekinc.com/"
-  },
-  {
-    "name": "Applied Thermal Technologies",
-    "url": "https://www.appliedthermaltechnologies.com/services/",
-    "status": 200,
-    "final": "https://www.appliedthermaltechnologies.com/services/"
   },
   {
     "name": "County Heat Treat, Inc.",
@@ -66,6 +48,24 @@
     "final": "https://martinsmetalservices.com/"
   },
   {
+    "name": "Nexus Grinders (Blade Heat Treat)",
+    "url": "https://nexusgrinders.ca/product/heat-treating-and-tempering/",
+    "status": 200,
+    "final": "https://nexusgrinders.ca/product/heat-treating-and-tempering/"
+  },
+  {
+    "name": "MED TEK, Inc.",
+    "url": "https://med-tekinc.com/",
+    "status": 200,
+    "final": "https://med-tekinc.com/"
+  },
+  {
+    "name": "Applied Thermal Technologies",
+    "url": "https://www.appliedthermaltechnologies.com/services/",
+    "status": 200,
+    "final": "https://www.appliedthermaltechnologies.com/services/"
+  },
+  {
     "name": "Metal Treaters, Inc.",
     "url": "https://www.metaltreaters.com/",
     "status": 200,
@@ -76,6 +76,36 @@
     "url": "https://flamemetals.com/",
     "status": 200,
     "final": "https://flamemetals.com/"
+  },
+  {
+    "name": "The Kinetic Company",
+    "url": "https://www.knifemaker.com/",
+    "status": 200,
+    "final": "https://www.knifemaker.com/"
+  },
+  {
+    "name": "Byron Products",
+    "url": "https://byronproducts.com/heat-treating/",
+    "status": 200,
+    "final": "https://byronproducts.com/heat-treating/"
+  },
+  {
+    "name": "Service Heat Treating Inc",
+    "url": "https://serviceht.com/",
+    "status": 0,
+    "final": "https://serviceht.com/"
+  },
+  {
+    "name": "ThermTech",
+    "url": "https://www.thermtech.net/",
+    "status": 200,
+    "final": "https://www.thermtech.net/"
+  },
+  {
+    "name": "Baron Machine Co., Inc.",
+    "url": "https://baronmachine.com/",
+    "status": 200,
+    "final": "https://baronmachine.com/"
   },
   {
     "name": "Bodycote",
@@ -114,22 +144,10 @@
     "final": "https://www.vacubraze.net/capabilities/"
   },
   {
-    "name": "American Steel Treating",
-    "url": "https://www.americansteeltreating.com/",
-    "status": 404,
-    "final": "https://www.americansteeltreating.com/"
-  },
-  {
     "name": "Metal Finishing Company",
     "url": "https://metalfinishingco.com/",
     "status": 200,
     "final": "https://metalfinishingco.com/"
-  },
-  {
-    "name": "Byron Products",
-    "url": "https://byronproducts.com/heat-treating/",
-    "status": 200,
-    "final": "https://byronproducts.com/heat-treating/"
   },
   {
     "name": "Solar Atmospheres",
@@ -180,12 +198,6 @@
     "final": "https://zioninduction.com/"
   },
   {
-    "name": "Service Heat Treating Inc",
-    "url": "https://serviceht.com/",
-    "status": 200,
-    "final": "https://serviceht.com/"
-  },
-  {
     "name": "Induction Heat Treating Corp",
     "url": "https://www.ihtcorp.com/",
     "status": 200,
@@ -193,20 +205,104 @@
   },
   {
     "name": "Southwest Specialty Heat Treatment, Inc.",
-    "url": "https://thermalprocessing.com/storefront/southwest-specialty-heat-treat/",
+    "url": "https://swhtva.com/",
     "status": 200,
-    "final": "https://thermalprocessing.com/storefront/southwest-specialty-heat-treat/"
+    "final": "https://swhtva.com/"
   },
   {
-    "name": "ThermTech",
-    "url": "https://www.thermtech.net/",
+    "name": "Woodworth Inc",
+    "url": "https://www.woodworthheattreating.com/",
     "status": 200,
-    "final": "https://www.thermtech.net/"
+    "final": "https://www.woodworthheattreating.com/"
   },
   {
-    "name": "Baron Machine Co., Inc.",
-    "url": "https://baronmachine.com/",
+    "name": "Braddock Metallurgical",
+    "url": "https://www.braddockmt.com/",
     "status": 200,
-    "final": "https://baronmachine.com/"
+    "final": "https://www.braddockmt.com/"
+  },
+  {
+    "name": "Advanced Heat Treat Corp.",
+    "url": "https://www.ahtcorp.com/",
+    "status": 200,
+    "final": "https://www.ahtcorp.com/"
+  },
+  {
+    "name": "Heat Treating Services (HTS)",
+    "url": "https://www.htsmi.com/",
+    "status": 200,
+    "final": "https://www.htsmi.com/"
+  },
+  {
+    "name": "Specialty Steel Treating",
+    "url": "https://www.sst.net/",
+    "status": 200,
+    "final": "https://www.sst.net/"
+  },
+  {
+    "name": "FPM Heat Treating",
+    "url": "https://www.fpmht.com/",
+    "status": 200,
+    "final": "https://www.fpmht.com/"
+  },
+  {
+    "name": "Hansen Balk",
+    "url": "https://hansenbalk.com/",
+    "status": 200,
+    "final": "https://hansenbalk.com/"
+  },
+  {
+    "name": "Industrial Steel Treating",
+    "url": "https://www.indstl.com/",
+    "status": 200,
+    "final": "https://www.indstl.com/"
+  },
+  {
+    "name": "Vac-Aero International",
+    "url": "https://vacaero.com/en",
+    "status": 200,
+    "final": "https://vacaero.com/en"
+  },
+  {
+    "name": "Continental Heat Treating",
+    "url": "https://continentalht.com/",
+    "status": 200,
+    "final": "https://continentalht.com/"
+  },
+  {
+    "name": "Accurate Steel Treating",
+    "url": "https://accuratesteeltreating.com/",
+    "status": 200,
+    "final": "https://accuratesteeltreating.com/"
+  },
+  {
+    "name": "Winston Heat Treating",
+    "url": "https://winstonht.com/",
+    "status": 200,
+    "final": "https://winstonht.com/"
+  },
+  {
+    "name": "Thermetco",
+    "url": "https://www.thermetco.com/en/",
+    "status": 200,
+    "final": "https://www.thermetco.com/en/"
+  },
+  {
+    "name": "East Carolina Metal Treating",
+    "url": "https://ecmtinc.com/",
+    "status": 200,
+    "final": "https://ecmtinc.com/"
+  },
+  {
+    "name": "Akron Steel Treating",
+    "url": "https://akronsteeltreating.com/",
+    "status": 200,
+    "final": "https://akronsteeltreating.com/"
+  },
+  {
+    "name": "Modern Heat Treat",
+    "url": "https://www.modernht.com/",
+    "status": 200,
+    "final": "https://www.modernht.com/"
   }
 ]
