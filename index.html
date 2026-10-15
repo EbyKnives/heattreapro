@@ -302,9 +302,47 @@
             border-radius: 8px;
             font-weight: 600;
             transition: background 0.2s;
+            border: none;
+            cursor: pointer;
+            font-family: inherit;
+            font-size: 1rem;
         }
 
         .btn-primary:hover { background: var(--accent-hover); }
+
+        #submit-guide {
+            max-width: 600px;
+            margin: 2.5rem auto 0;
+            text-align: left;
+        }
+
+        #submit-guide h3 {
+            color: var(--text);
+            margin: 1.75rem 0 0.75rem;
+            font-size: 1.1rem;
+        }
+
+        #submit-guide h3:first-child { margin-top: 0; }
+
+        .guide-list {
+            list-style: none;
+            padding: 0;
+        }
+
+        .guide-list li {
+            color: var(--text-muted);
+            padding: 0.35rem 0 0.35rem 1.5rem;
+            position: relative;
+        }
+
+        .guide-list li::before {
+            content: "→";
+            color: var(--accent);
+            position: absolute;
+            left: 0;
+        }
+
+        #submit-guide .btn-primary { margin-top: 1.75rem; }
 
         /* Stats */
         .stats {
@@ -1503,11 +1541,29 @@
 
     </section>
 
-    <!-- CTA -->
+    <!-- CTA / Submit Guide -->
     <section class="cta-section" id="submit">
         <h2>Run a Heat Treat Shop?</h2>
         <p>Get listed for free and reach customers who are actively looking for your services. Featured listings available for $50–$200/mo.</p>
-        <a href="mailto:heattreatdirect@gmail.com?subject=Shop%20Submission&body=Shop%20name%3A%0D%0ALocation%20(city%2C%20state)%3A%0D%0APhone%3A%0D%0AWebsite%3A%0D%0AServices%20%2F%20processes%3A%0D%0ACertifications%20(NADCAP%2C%20ISO%2C%20etc.)%3A%0D%0A" class="btn-primary">Submit Your Shop</a>
+        <button type="button" class="btn-primary" id="submit-btn">Submit Your Shop</button>
+
+        <div id="submit-guide" class="hidden">
+            <h3>What to include in your email</h3>
+            <ul class="guide-list">
+                <li>Shop name</li>
+                <li>Location (city, state)</li>
+                <li>Phone number</li>
+                <li>Website</li>
+                <li>Services / processes offered</li>
+                <li>Certifications (NADCAP, ISO, etc.)</li>
+            </ul>
+            <h3>What you get</h3>
+            <ul class="guide-list">
+                <li>A free listing in the directory, searchable by process, location, and material</li>
+                <li>Featured placement available for $50–$200/mo</li>
+            </ul>
+            <a href="mailto:heattreatdirect@gmail.com?subject=Shop%20Submission&body=Shop%20name%3A%0D%0ALocation%20(city%2C%20state)%3A%0D%0APhone%3A%0D%0AWebsite%3A%0D%0AServices%20%2F%20processes%3A%0D%0ACertifications%20(NADCAP%2C%20ISO%2C%20etc.)%3A%0D%0A" class="btn-primary">Email Your Submission</a>
+        </div>
     </section>
     </div>
 
@@ -1566,6 +1622,16 @@
         filter();
         input.focus();
     });
+
+    var submitBtn = document.getElementById('submit-btn');
+    var submitGuide = document.getElementById('submit-guide');
+    if (submitBtn && submitGuide) {
+        submitBtn.addEventListener('click', function () {
+            submitGuide.classList.remove('hidden');
+            submitBtn.style.display = 'none';
+            submitGuide.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        });
+    }
 })();
 </script>
 
