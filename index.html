@@ -1532,8 +1532,13 @@
 
     function filter() {
         var q = norm(input.value);
-        var alias = STATES[q];
-        var aliasRe = alias ? new RegExp('\\b' + alias + '\\b', 'i') : null;
+        var aliases = [];
+        if (q.length >= 3) {
+            Object.keys(STATES).forEach(function (name) {
+                if (name.indexOf(q) === 0) { aliases.push(STATES[name]); }
+            });
+        }
+        var aliasRe = aliases.length ? new RegExp('\\b(' + aliases.join('|') + ')\\b', 'i') : null;
         var total = 0;
         cards.forEach(function (card) {
             var text = norm(card.textContent);
