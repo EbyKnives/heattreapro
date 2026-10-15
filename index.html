@@ -161,6 +161,7 @@
         .badge-small { background: var(--small-badge); color: #000; }
         .badge-large { background: var(--large-badge); color: #fff; }
         .badge-full { background: var(--full-badge); color: #000; }
+        .badge-featured { background: var(--accent); color: #000; }
 
         /* Cards */
         .cards-grid {
@@ -183,6 +184,32 @@
             transform: translateY(-2px);
             box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
             border-color: var(--accent);
+        }
+
+        .card-featured {
+            border-color: var(--accent);
+            box-shadow: 0 0 24px rgba(245, 158, 11, 0.18);
+            position: relative;
+        }
+
+        .card-featured:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 32px rgba(245, 158, 11, 0.3);
+        }
+
+        .featured-flag {
+            display: inline-block;
+            background: var(--accent);
+            color: #000;
+            padding: 0.15rem 0.6rem;
+            border-radius: 999px;
+            font-size: 0.7rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-left: 0.5rem;
+            vertical-align: middle;
+            white-space: nowrap;
         }
 
         .card-header {
@@ -432,6 +459,19 @@
             <div class="stat-label">States + Canada</div>
         </div>
     </div>
+
+    <!-- FEATURED SECTION (hidden until a shop is featured)
+         To feature a $200/mo shop: move its card into the cards-grid below, add class
+         "card card-featured" to it, add '<span class="featured-flag">★ Featured</span>'
+         inside its h3, and remove the style="display: none;" from this section. -->
+    <section id="featured" style="display: none;">
+        <div class="section-header">
+            <h2><span class="badge badge-featured">Featured Shops</span></h2>
+            <p style="color: var(--text-muted);">Paid placements — these shops support the directory.</p>
+        </div>
+        <div class="cards-grid">
+        </div>
+    </section>
 
     <!-- SMALL BATCH SECTION -->
     <section id="small-batch">
@@ -1560,7 +1600,8 @@
             <h3>What you get</h3>
             <ul class="guide-list">
                 <li>A free listing in the directory, searchable by process, location, and material</li>
-                <li>Featured placement available for $50–$200/mo</li>
+                <li>$50/mo — Featured badge and highlighted card that stands out in the directory</li>
+                <li>$200/mo — All of that, plus your shop pinned in the Featured Shops section at the top of the page</li>
             </ul>
             <a href="mailto:heattreatdirect@gmail.com?subject=Shop%20Submission&body=Shop%20name%3A%0D%0ALocation%20(city%2C%20state)%3A%0D%0APhone%3A%0D%0AWebsite%3A%0D%0AServices%20%2F%20processes%3A%0D%0ACertifications%20(NADCAP%2C%20ISO%2C%20etc.)%3A%0D%0A" class="btn-primary">Email Your Submission</a>
         </div>
@@ -1588,7 +1629,7 @@
     var clearEl = document.getElementById('search-clear');
     var noResults = document.getElementById('no-results');
     var cards = Array.prototype.slice.call(document.querySelectorAll('.card'));
-    var sections = Array.prototype.slice.call(document.querySelectorAll('#small-batch, #full-range, #large-scale'));
+    var sections = Array.prototype.slice.call(document.querySelectorAll('#small-batch, #full-range, #large-scale, #featured'));
 
     function filter() {
         var q = norm(input.value);
